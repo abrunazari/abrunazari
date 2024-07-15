@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @abrunazari
 - 👀 I’m exploring different software areas
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working with Flutter and NodeJs
